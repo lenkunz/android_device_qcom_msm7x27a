@@ -20,9 +20,9 @@ PRODUCT_PACKAGES += \
 
 ## Graphics
 PRODUCT_PACKAGES += \
-    copybit.msm7x27a \
-    gralloc.msm7x27a \
-    hwcomposer.msm7x27a \
+    copybit.msm7627a \
+    gralloc.msm7627a \
+    hwcomposer.msm7627a \
     libtilerenderer
 
 ## Misc.
@@ -33,8 +33,8 @@ PRODUCT_PACKAGES += \
 
 ## Audio
 PRODUCT_PACKAGES += \
-    audio.primary.msm7x27a \
-    audio_policy.msm7x27a \
+    audio.primary.msm7627a \
+    audio_policy.msm7627a \
     audio.a2dp.default \
     audio.usb.default \
     audio_policy.conf \
@@ -42,9 +42,9 @@ PRODUCT_PACKAGES += \
 
 ## other
 PRODUCT_PACKAGES += \
-    lights.msm7x27a \
+    lights.msm7627a \
     gps.default \
-    power.msm7x27a
+    power.msm7627a
 
 ## FM radio
 PRODUCT_PACKAGES += \
